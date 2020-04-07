@@ -37,7 +37,7 @@ public class SimpleCalculator {
 
         //Задаем размеры, делаем видимым
 
-        frame.setSize(400, 100);
+        frame.setSize(300, 200);
         frame.setVisible(true);
 
 
